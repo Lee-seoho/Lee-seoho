@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:a82da8,100:da8f00&height=280&section=header&text=SeoHoLee&fontAlign=50&fontAlignY=40&fontSize=60&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:a82da8,100:da8f00&height=280&section=header&text=SeoHo_Lee&fontAlign=50&fontAlignY=40&fontSize=60&fontColor=ffffff)
 
 <h3 align="center">Hi! I'm Seoho </h3>
 
@@ -8,7 +8,7 @@
 👶 1993.08.01 <br>
 📞 010-3955-3856 <br>
   <a href="stout259@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:stout259@gmail.com)](mailto:stout259.com)"/></a>&nbsp
-<a href="https://www.notion.so/Master-Key-611930d7b22442e4aa0191f8911e54b0"><img src="https://img.shields.io/badge/Notion-00000?style=round-square&logo=Notion&logoColor=black"/></a>&nbsp</p>
+<a href="https://www.notion.so/e05c46c3884e44c7a9015f564583fa75"><img src="https://img.shields.io/badge/Notion-00000?style=round-square&logo=Notion&logoColor=black"/></a>&nbsp</p>
 <h4 align="center"> </h4>
 <br>
 
