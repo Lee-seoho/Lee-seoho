@@ -33,5 +33,5 @@
   
   
 <h2 align="center"> ✨My Github Stats✨ </h2>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=SilverSharkDeveloper&show_icons=true"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SilverSharkDeveloper&layout=compact"></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Lee-seoho&show_icons=true"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lee-seoho&layout=compact"></p>
   
