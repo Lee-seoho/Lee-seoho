@@ -3,7 +3,7 @@
 <h3 align="center">Hi! I'm Seoho </h3>
 
 <p align="center">
-   ##Profile <br>
+   Profile <br>
 👦 이서호 <br>
 👶 1993.08.01 <br>
 📞 010-3955-3856 <br>
